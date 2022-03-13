@@ -1,0 +1,38 @@
+{"education":[
+    {
+        "school": "Mittuniversitetet",
+        "startYear": 2018,
+        "endingYear": 2020,
+        "program": "Datateknik"
+    },
+    {
+        "school": "Sundsvalls Praktiska Gymnasium",
+        "startYear": 2009,
+        "endingYear": 2012,
+        "program": "Energi"
+    }
+],
+
+"work":[
+    {
+        "company": "DHL Freight",
+        "position": "Lagerarbetare",
+        "startYear": 2015,
+        "endingYear": 2022,
+        "desc": "Jobbade som lagerarbetare som innefattade att köra truck och att sortera ordrar/paket."
+    },
+    {
+        "company": "Rättpsyk Sundsvalls sjukhus avd 97",
+        "position": "Skötare",
+        "startYear": 2014,
+        "endingYear": 2014,
+        "desc": "Jobbade som skötare under en kort period som innefattade att ta hand om patienter och hjälpa till med olika slags vardags sysslor."
+    },
+    {
+        "company": "Lager 157",
+        "position": "Butiksarbetare",
+        "startYear": 2013,
+        "endingYear": 2014,
+        "desc": "Var med och starta upp butiken Lager 157 i birsta och hade en tjänst på 50%, jobbade där i ett halvår ungefär."
+    }
+]}

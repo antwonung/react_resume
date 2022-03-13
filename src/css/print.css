@@ -1,0 +1,47 @@
+body {
+    background: none;
+    
+}
+.noprint {
+    display: none !important;
+    padding:0;
+    margin:0;
+    
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-auto-rows: minmax(300px,auto);
+    grid-template-areas: 
+    "side info";
+    column-gap: 10px;
+    row-gap: 10px;
+}
+
+.InfoPic {
+    grid-area: side;
+    background:white;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: left;
+    text-align: center;
+}
+
+.cvLink {
+    grid-area: info;
+    background:white;
+
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.image-grid {
+    display: none;
+}
+.matrix {
+    display: none;
+}
