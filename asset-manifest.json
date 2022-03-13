@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/resume/static/css/main.136fdebc.css",
+    "main.js": "/resume/static/js/main.5feef370.js",
+    "static/js/787.dc9ee2bf.chunk.js": "/resume/static/js/787.dc9ee2bf.chunk.js",
+    "static/media/hardrock.mp4": "/resume/static/media/hardrock.5bfd9194da55735fc4c8.mp4",
+    "static/media/thor.mp4": "/resume/static/media/thor.deeac13f644b262dc2b3.mp4",
+    "static/media/lastpb.mp4": "/resume/static/media/lastpb.ac629f1120d175d4811f.mp4",
+    "static/media/pb.mp4": "/resume/static/media/pb.ff17bdc9e07387e80b7c.mp4",
+    "static/media/mark.jpg": "/resume/static/media/mark.b1779fdf026a53683866.jpg",
+    "static/media/personligtBrevAntonlia.pdf": "/resume/static/media/personligtBrevAntonlia.b5240ddb4aa8c597dc23.pdf",
+    "static/media/sundsvall.jpg": "/resume/static/media/sundsvall.56362de90e32d5bc85a5.jpg",
+    "static/media/karlsson.png": "/resume/static/media/karlsson.d9496f7514e59060243f.png",
+    "static/media/binary.jpg": "/resume/static/media/binary.f5c89833b53b4f50dcff.jpg",
+    "static/media/anton.jpg": "/resume/static/media/anton.79d12028886009d59b46.jpg",
+    "static/media/antonSjobergCV.pdf": "/resume/static/media/antonSjobergCV.5b52f047cce3d2256a3f.pdf",
+    "static/media/sky.jpg": "/resume/static/media/sky.2464015ed9f6767e6821.jpg",
+    "static/media/spannis.jpg": "/resume/static/media/spannis.9a5e661a6b7662faf197.jpg",
+    "index.html": "/resume/index.html",
+    "main.136fdebc.css.map": "/resume/static/css/main.136fdebc.css.map",
+    "main.5feef370.js.map": "/resume/static/js/main.5feef370.js.map",
+    "787.dc9ee2bf.chunk.js.map": "/resume/static/js/787.dc9ee2bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.136fdebc.css",
+    "static/js/main.5feef370.js"
+  ]
+}
