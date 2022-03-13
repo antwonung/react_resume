@@ -1,6 +1,4 @@
 import { BrowserRouter, Route,Routes } from "react-router-dom";
-//import Project from "./pages/Project";
-//import './css/style.css';
 import Home from "./pages/Home";
 import Info from "./pages/Info";
 import Cv from "./pages/Cv";
@@ -37,7 +35,7 @@ window.addEventListener('keydown', function (e) {
   }
   render(){
   return (
-    <BrowserRouter basename="/MyResume">
+    <BrowserRouter basename="/react_resume">
 
       <Routes>
         
