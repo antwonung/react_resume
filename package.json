@@ -1,6 +1,6 @@
 {
-  "homepage": "https://antwonung.github.io/resume",
-  "name": "resume",
+  "homepage": "https://antwonung.github.io/react_resume",
+  "name": "react_resume",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
