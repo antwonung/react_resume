@@ -15,7 +15,7 @@ export default function ProjectComponent ({project}){
             <h3>{project.name}</h3>
             {console.log(project.name)}
             <p>{project.description}</p>
-            <a href={project.html_url}>Github länk</a>
+            <a href={project.html_url} target="_blank">Github länk</a>
             <a href="#" className="modalclose">&times;</a>
         </div>
     </div>
