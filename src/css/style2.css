@@ -52,6 +52,10 @@ a:hover {
     box-shadow: 12px 6px goldenrod;
     
 }
+.p-font-training{
+    font-size: 20px;
+    width: 700px;
+}
 .backToStart {
     grid-area: header;
     background: url('../images/sky.jpg');

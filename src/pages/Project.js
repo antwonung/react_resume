@@ -10,6 +10,7 @@ export default class Project extends Component {
         const response = await fetch('https://api.github.com/users/antwonung/repos')
         const data = await response.json(); 
         this.setState({fetching:false, projects:data});
+       
     
         const btn = document.getElementById('myBtn');
         const elementImg = document.querySelector('.imgBox');
@@ -25,21 +26,25 @@ export default class Project extends Component {
         
         
     }
+    
     componentWillUnmount(){
         document.body.style.backgroundColor = "black";
     }
+    
     render() {
     return (
         <>
        
        <section className="InfoPic">
-            <div id="root"></div>
+        
             <h1><i className="fas fa-code"></i>Mina Projekt</h1>
             <figure>
                 <img className="photo" src={require("../images/binary.jpg")} alt="bild på mig"/>
             </figure>
             
+        
             {this.state.projects.map((project,key) => (
+            
                 <ProjectComponent project={project} key={key} ></ProjectComponent>
                 
             ))}

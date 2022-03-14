@@ -8,7 +8,7 @@ export default class Training extends Component {
         
           <section className="InfoPic-rest">
             <h2><i className="fas fa-dumbbell fa-2x"></i><br/>Mina träningsframsteg</h2>
-            <p> Haft mycket problem med ländryggen genom åren men älskar att träna. 
+            <p className='p-rest p-font-training'> Haft mycket problem med ländryggen genom åren men älskar att träna. 
                 Mitt mål med träningen är att kunna dra upp
                 200kg i marklyft en dag, det har tagit lite längre tid än jag tänkt mig
                 men det har blivit så eftersom jag haft så mycket problem med just ryggen.

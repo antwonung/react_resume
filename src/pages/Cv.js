@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import '../css/style2.css';
 import data from '../script/cvdata.json';
+import Pdf from '../pdf/antonSjobergCV.pdf'
 
 export default class Cv extends Component {
     
@@ -26,10 +27,7 @@ export default class Cv extends Component {
             }).join('')}
             `
         
-        
-    //document.body.appendChild(script);
-    //<script src="./script/scriptElite.js"></script>
-  }
+    }
   
     render() {
     return (
@@ -62,11 +60,10 @@ export default class Cv extends Component {
         
         <aside className="cvLink">
             <i className="fas fa-mouse fa-4x"></i>
-            <a  href={require("../pdf/antonSjobergCV.pdf")}>Här är mitt cv i pdf</a>
+            <a href= {Pdf} target="_blank">Här är mitt cv i pdf</a>
         </aside>
     </>
-    //<script src="scriptElite.js"></script>
-    //<script src="loadcv.js"></script>
+   
     )
   }
 }
