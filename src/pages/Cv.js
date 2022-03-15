@@ -39,6 +39,7 @@ export default class Cv extends Component {
             <figure>
                 <img className="photo" src={require("../images/anton.jpg")} alt="bild på mig"/>
             </figure>
+            <h2>Meriter:</h2>
            <div id="cvJson-edu"></div>
            <div id="cvJson-work"></div>
             <div id="line"></div>
@@ -60,7 +61,7 @@ export default class Cv extends Component {
         
         <aside className="cvLink">
             <i className="fas fa-mouse fa-4x"></i>
-            <a href= {Pdf} target="_blank">Här är mitt cv i pdf</a>
+            <a href= {Pdf} target="_blank">Här är mitt cv som pdf</a>
         </aside>
     </>
    

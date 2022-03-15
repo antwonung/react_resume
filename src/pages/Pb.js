@@ -15,7 +15,7 @@ export default class Pb extends Component {
         </section>
         <aside className="cvLink">
             <i className="fas fa-mouse fa-4x"></i>
-            <a href={Pdf} target="_blank" >Här är mitt personliga brev</a>
+            <a href={Pdf} target="_blank" >Här är mitt personliga brev som pdf</a>
         </aside>
   
 
